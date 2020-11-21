@@ -10,7 +10,7 @@ Descargamos Geckodriver desde Github: https://github.com/mozilla/geckodriver/rel
 Elegimos la versión que corresponda con nuestro Sistema Operativo, descomprimimos el .zip, y configuramos las variables de entorno del sistema, colocando el directorio en el que se encuentre nuestro geckodriver.exe, esto para no establecer la propiedad System cada vez que tengamos un script de prueba: (System.setProperty("webdriver.gecko.driver","C:\\carpeta\\geckodriver.exe");)
 ## Scripts de prueba
 A continuación se muestran los atributos que se obtienen de la página web que usaremos de prueba:
-![Preview](https://github.com/Fernanda1625/SeleniumTest-LaboratoryandPractice-5/master/img/script1.png)
+![Explicación de script](https://raw.githubusercontent.com/Fernanda1625/SeleniumTest-LaboratoryandPractice-5/master/img/script1.png)
 ## Resultados
 Los resultados de ejecutar el script de prueba serian:
-![Preview](https://github.com/Fernanda1625/SeleniumTest-LaboratoryandPractice-5/master/img/script2.png)
+![Resultados](https://raw.githubusercontent.com/Fernanda1625/SeleniumTest-LaboratoryandPractice-5/master/img/script2.png)
