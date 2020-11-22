@@ -17,5 +17,6 @@ Los resultados de ejecutar el script de prueba serian:
 ## JUnit
 Integramos JUnit para verificar los resultados de ejecución de pruebas:
 ![Scheme](img/script3.png)
+### Asserts
 Usamos Asserts para verificar el resultado de los test:
 ![Scheme](img/script4.png)
