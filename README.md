@@ -14,3 +14,8 @@ A continuación se muestran los atributos que se obtienen de la página web que 
 ## Resultados
 Los resultados de ejecutar el script de prueba serian:
 ![Scheme](img/script2.png)
+## JUnit
+Integramos JUnit para verificar los resultados de ejecución de pruebas:
+![Scheme](img/script3.png)
+Usamos Asserts para verificar el resultado de los test:
+![Scheme](img/script4.png)
